@@ -5,4 +5,4 @@ Analyzed blockchain data involving multiple tables on the Flipside platform thro
 Dashboards with SQL queries 
 1) https://lnkd.in/ghQj4ksD- Optimism blockchain
 2) https://lnkd.in/gcsYpvg3- Solana blockchain
-3) https://lnkd.in/gBscX7x2- Fidenza blockchain
+3) https://lnkd.in/gBscX7x2- Fidenza Ethereum blockchain
